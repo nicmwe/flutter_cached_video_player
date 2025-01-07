@@ -33,6 +33,7 @@ android {
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
+    namespace 'io.flutter.plugins.videoplayer' 
     lintOptions {
         disable 'InvalidPackage'
     }
