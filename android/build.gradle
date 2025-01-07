@@ -33,7 +33,7 @@ android {
         minSdkVersion 16
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
-    namespace 'io.flutter.plugins.videoplayer' 
+    namespace 'com.lazyarts.vikram.cached_video_player'
     lintOptions {
         disable 'InvalidPackage'
     }
